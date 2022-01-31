@@ -1,0 +1,120 @@
+.head{display: flex;
+padding: 10px;
+justify-content: space-between;
+justify-content: space-evenly;
+flex: 1;
+margin-inline: auto;
+min-width: fit-content;
+flex-wrap: wrap;}
+
+.one{background-image: url('./cover2.png');
+background-size: cover;
+height: 700px;
+
+}
+.two{
+}
+
+
+.eight{align-items: center;}
+
+.nine{display: flex;
+justify-content:space-between;
+justify-content: space-evenly;
+flex-wrap: wrap;}
+
+
+.ten{display: flex;
+justify-self:space-evenly;
+justify-content:space-between;
+background-color: black;}
+
+.eleven{display: flex;
+justify-content: space-between;
+justify-content: center;
+flex-wrap: wrap;}
+
+.twelve{display: flex;
+justify-content: space-between;
+flex-wrap: wrap;}
+
+.thirteen{display: flex;
+justify-content: space-between;
+justify-content: space-evenly;
+flex-wrap: wrap;}
+
+.fourteen{display: flex;
+justify-content:space-between ;
+flex-wrap: wrap;}
+
+.button{background-color:#23A6F0;}
+
+.subheader{text-align: center;
+  
+}
+
+.four{text-align: center;
+padding-bottom:10%;}
+
+.eight{text-align: center;}
+
+.map{padding-top: 3%;}
+
+/* body{background-image: url(./cover2.png);
+background-repeat: no-repeat;
+background-position:top;
+flex-wrap: wrap;} */
+
+.book{background-color: #23A6F0;
+}
+
+.blue{background-color: #23A6F0;}
+
+.peace{background-color: aliceblue;}
+
+.set{background-color: aliceblue;}
+
+.branch{color: aliceblue;}
+
+.brand{color: aliceblue;}
+.h{color: aliceblue;}
+.p{color: aliceblue;}
+.pi{color: aliceblue;}
+.c{color: aliceblue;}
+.l{color: aliceblue;}
+.subheader{color: aliceblue;}
+
+.guy{text-align: justify;}
+
+@media only screen and (max-width:50%){
+    body{
+      background-color:#252B42;
+      font: montserrat;
+      opacity:0.9;
+    
+    margin:auto;
+  flex-grow: inherit;}
+  }
+
+  .two{display: flex;
+  justify-content: space-between;
+justify-content: space-evenly;
+flex-wrap: wrap;}
+
+.three{display: flex;
+justify-content: space-evenly;
+justify-content:space-betwe;
+flex-wrap: wrap;}
+
+.five{display: flex;
+justify-content: space-around;}
+
+.six{display: flex;
+justify-content: space-between;
+justify-content: space-evenly;
+flex-wrap: wrap;}
+
+.seven{display: flex;
+justify-content: space-between;
+justify-content: space-evenly; 
+flex-wrap: wrap;}
