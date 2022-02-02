@@ -9,47 +9,105 @@ min-width: fit-content;}
 .one{background-image: url('./cover2.png');
 background-size: cover;
 height: 700px;
-color: white;}
+color: white;
+}
+.button2{color: rgb(0, 0, 255);}
+
+
 
 .two{display: flex;
 justify-content: center;
 }
+.peacel {background-color: white;
+border: solid gray;
+width: 200px; ;
+text-align: center;
+margin-left: 4px;}
+
+.peace{background-color: rgb(0, 174, 255);}
+
+.non{background-color: white;
+width: 200px;
+text-align: center;
+margin-left:4px;}
 
 
 
 
 .three{display: flex;
-justify-content: center;}
+justify-content: center;
+padding-top: 3rem;}
 
-.four{text-align: center;}
+.four{text-align: center;
+padding-top: 4rem;}
 
 .five{display: flex;
 justify-content: center;
 justify-content: space-evenly;
+padding-top: 4rem;
+padding-bottom: 2rem;
 }
+
+.lady1{background-color:whitesmoke; border: solid gray;
+width: 200px;
+margin-right:4px ;}
+
+.guy{background-color: white;
+border: solid gray;
+width: 200px;
+text-align: center;}
+
+.lady2{background-color: white;
+border: solid gray;
+width: 200px;}
 
 .six{display: flex;
 justify-content: center;
-justify-content:space-evenly;}
+justify-content:space-evenly;
+padding-top: 2rem;
+padding-bottom: 2rem;}
 
 .seven{display: flex;
 justify-content: center;
 justify-content: space-evenly;
+background-color: rgba(38, 8, 145, 0.753);
+padding: 1e;
 }
 
+.blueblue{background-color: rgba(0, 0, 255, 0.849);}
 .eight{text-align: center;
+padding-top: 3rem;
 }
 
 .nine{display: flex;
 justify-content: center;
+padding-top: 3.5rem;
 }
+.organise{border:solid rgb(0, 162, 255,0.76)}
+
+.standard{border:solid rgb(0, 162, 255,0.76)
+;background-color: rgb(40, 40, 58);
+color: white;}
+
+
+.premium{border:solid rgb(0, 162, 255,0.76);}
+
+
+
 
 .ten{display: flex;
 justify-content: center;
+padding-top: 3rem;
+background-color: rgb(40, 40, 58);
+color: white;
 }
 .eleven{display: flex;
 justify-content: center;
 }
+.book{background-color: rgba(0, 162, 255, 0.76);}
+
+.button{background-color:rgb(0, 162, 255,0.76) ;}
+.try{background-color:rgb(0, 162, 255,0.76);align-content: center;}
 
 .twelve{display: flex;
 justify-content: center;
@@ -61,10 +119,12 @@ justify-content: space-evenly;}
 
 .fourteen{display: flex;
 justify-content: center;
-justify-content: space-evenly;}
+justify-content: space-evenly;
+padding-top: 3.5rem;}
 
 .subheader{text-align:center;
-font-size: 2rem;}
+font-size: 2rem;
+padding-top: 5rem;}
 
 .get{background-color: rgb(20, 160, 207);
 border-radius: 2rem;
@@ -74,3 +134,5 @@ padding: 1em;
 .learn{border-radius: 2rem;
 margin: 1rem;
 padding:1em ;}
+
+body{padding: 2rem;}
