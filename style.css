@@ -20,7 +20,7 @@ justify-content: center;
 margin-top: -2rem;
 }
 .peacel {background-color: white;
-border: solid gray;
+border: solid white;
 width: 200px; ;
 text-align: center;
 margin-left: 4px;}
@@ -49,17 +49,17 @@ padding-top: 4rem;
 padding-bottom: 2rem;
 }
 
-.lady1{background-color:whitesmoke; border: solid gray;
+.lady1{background-color:whitesmoke; border: solid white;
 width: 200px;
 margin-right:4px ;}
 
 .guy{background-color: white;
-border: solid gray;
+border: solid white;
 width: 200px;
 text-align: center;}
 
 .lady2{background-color: white;
-border: solid gray;
+border: solid white;
 width: 200px;}
 
 .six{display: flex;
@@ -71,9 +71,11 @@ padding-bottom: 2rem;}
 .seven{display: flex;
 justify-content: center;
 justify-content: space-evenly;
-background-color: rgba(38, 8, 145, 0.753);
-padding: 1e;
+background-color:hsl(294, 82%, 13%);
+padding: 1rem;
+color: white;
 }
+
 
 .blueblue{background-color: rgba(0, 0, 255, 0.849);}
 .eight{text-align: center;
@@ -91,7 +93,8 @@ padding-top: 3.5rem;
 color: white;}
 
 
-.premium{border:solid rgb(0, 162, 255,0.76);}
+.premium{border:solid rgb(0, 162, 255,0.76);
+color: rgb(14, 14, 29);}
 
 
 
@@ -101,6 +104,9 @@ justify-content: center;
 padding-top: 3rem;
 background-color: rgb(40, 40, 58);
 color: white;
+margin-bottom:-4rem;
+padding-bottom: 4rem;
+font-size: x-small;
 }
 .eleven{display: flex;
 justify-content: center;
