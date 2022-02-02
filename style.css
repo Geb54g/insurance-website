@@ -4,173 +4,73 @@ justify-content: space-between;
 justify-content: space-evenly;
 flex: 1;
 margin-inline: auto;
-min-width: fit-content;
-flex-wrap: wrap;}
+min-width: fit-content;}
 
 .one{background-image: url('./cover2.png');
 background-size: cover;
 height: 700px;
+color: white;}
 
-}
-
-
-.eight{align-items: center;}
-
-.nine{display: flex;
-justify-content:space-between;
-justify-content: space-evenly;
-flex-wrap: wrap;}
-
-
-.ten{display: flex;
-justify-self:space-evenly;
-justify-content:space-between;
-background-color: black;}
-
-.eleven{display: flex;
-justify-content: space-between;
+.two{display: flex;
 justify-content: center;
-flex-wrap: wrap;}
-
-.twelve{display: flex;
-justify-content: space-between;
-flex-wrap: wrap;}
-
-.thirteen{display: flex;
-justify-content: space-between;
-justify-content: space-evenly;
-flex-wrap: wrap;}
-
-.fourteen{display: flex;
-justify-content:space-between ;
-flex-wrap: wrap;}
-
-.button{background-color:#23A6F0;}
-
-.subheader{text-align: center;
-  
-}
-.h2{font: size 50px;.;}
-
-.four{text-align: center;
-padding-bottom:10%;}
-
-.eight{text-align: center;}
-
-.map{padding-top: 3%;}
-
-/* body{background-image: url(./cover2.png);
-background-repeat: no-repeat;
-background-position:top;
-flex-wrap: wrap;} */
-
-.book{background-color: #23A6F0;
 }
 
-.blue{background-color: #23A6F0;}
-
-.peace{background-color: aliceblue;
-width: 200px;}
-
-.set{background-color: aliceblue;
-width: 200px;}
-.non{width: 200px;}
-
-.non2{width: 200px;}
-
-.not{width: 200px;}
-
-.branch{color: aliceblue;}
-
-.brand{color: aliceblue;}
-.h{color: aliceblue;}
-.p{color: aliceblue;}
-.pi{color: aliceblue;}
-.c{color: aliceblue;}
-.l{color: aliceblue;}
-.subheader{color: aliceblue;}
-
-.guy{text-align:center;
-width: 300px;
-background-color: blanchedalmond;}
-
-.lady1{text-align: center;
-background-color: blanchedalmond;
-width: 300px;}
-.lady2{text-align: center;
-width: 300px;
-background-color: blanchedalmond;
-}
-.standard{background-color: #020a29;}
 
 
-.premium{border: solid blue;
-background-color: whitesmoke;}
-
-.standard{border:solid blue;
-background-color:darkblue;}
-
-.organise{border: solid blue;
-background-color: whitesmoke;;}
-@media only screen and (max-width:50%){
-    body{
-      background-color:#252B42;
-      font: montserrat;
-      opacity:0.9;
-    
-    margin:auto;
-  flex-grow: inherit;}
-  }
-
-  .two{display: flex;
-  justify-content: space-between;
-justify-content: space-evenly;
-flex-wrap: wrap;}
 
 .three{display: flex;
-justify-content: space-evenly;
-justify-content:space-betwe;
-flex-wrap: wrap;}
+justify-content: center;}
+
+.four{text-align: center;}
 
 .five{display: flex;
-justify-content: space-around;}
-
-.m{color:white}
+justify-content: center;
+justify-content: space-evenly;
+}
 
 .six{display: flex;
-justify-content: space-between;
-justify-content: space-evenly;
-flex-wrap: wrap;}
+justify-content: center;
+justify-content:space-evenly;}
 
 .seven{display: flex;
-justify-content: space-between;
+justify-content: center;
+justify-content: space-evenly;
+}
+
+.eight{text-align: center;
+}
+
+.nine{display: flex;
+justify-content: center;
+}
+
+.ten{display: flex;
+justify-content: center;
+}
+.eleven{display: flex;
+justify-content: center;
+}
+
+.twelve{display: flex;
+justify-content: center;
 justify-content: space-evenly;}
 
-.or{color:white ;}
-.sa{color:white}
+.thirteen{display: flex;
+justify-content: centre;
+justify-content: space-evenly;}
 
-.two .peace{
-  text-align: center;
-  padding: 20px;
-  border-radius: 10px;
+.fourteen{display: flex;
+justify-content: center;
+justify-content: space-evenly;}
+
+.subheader{text-align:center;
+font-size: 2rem;}
+
+.get{background-color: rgb(20, 160, 207);
+border-radius: 2rem;
+margin: 1rem;
+padding: 1em;
 }
-
-.two .peace img{
-  height: 35px;
-  width: 35px;
-}
-
-.two{
-  padding: 30px;
-}
-
-.two .blue{
-  background: #6565ec;
-  color: white;
-}
-
-.three.non{text-align: center;
-height: 35px;
-width: 35px;
-color:wheat;}
-.seven{background-color: rgba(128, 0, 128, 0.733);}
+.learn{border-radius: 2rem;
+margin: 1rem;
+padding:1em ;}
