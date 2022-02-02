@@ -56,12 +56,11 @@ margin-right:4px ;}
 
 .guy{background-color: white;
 border: solid white;
-width: 200px;
-text-align: center;}
+width: 200px;}
 
 .lady2{background-color: white;
 border: solid white;
-width: 200px;}
+width: 200px; text-align:center ;}
 
 .six{display: flex;
 justify-content: center;
@@ -79,8 +78,10 @@ color: white;
 
 
 .blueblue{background-color: rgba(0, 0, 255, 0.849);}
+
 .eight{text-align: center;
 padding-top: 3rem;
+opacity: 0.4;
 }
 
 .nine{display: flex;
