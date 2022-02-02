@@ -81,13 +81,14 @@ color: white;
 
 .eight{text-align: center;
 padding-top: 3rem;
-opacity: 0.4;
 }
 
 .nine{display: flex;
 justify-content: center;
 padding-top: 3.5rem;
 }
+
+.m{color: rgb(0, 204, 255);}
 .organise{border:solid rgb(0, 162, 255,0.76)}
 
 .standard{border:solid rgb(0, 162, 255,0.76)
